@@ -1,7 +1,7 @@
 # Object-Stream
 
-Data Access. 
-Acceso a Datos.
+ Data Access. Write and Read Objects in a File. 
 
-Write and Read Objects in a File. 
-Escribir y Leer Objetos en un Fichero.
+ Acceso a Datos. Escribe y Lee Objetos en un Fichero.
+ 
+ -----
