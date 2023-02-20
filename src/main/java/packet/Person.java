@@ -1,6 +1,7 @@
 package packet;
-//@author Domingo 2013_02_13
-
+/*
+*  @author Domingo 2023_02_20
+*/
 import java.io.Serializable;
 
 public class Person implements Serializable {
